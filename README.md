@@ -1,1 +1,1 @@
-# Calorie-Prediction-using-Workout
+The calories are predicted using the Multivariate regression concept in Supervised Learning. The heart rate, sweat rate and body temperature are the main independent variables and the amount of calories burnt is the dependent variable. The project is implemented using Python.
